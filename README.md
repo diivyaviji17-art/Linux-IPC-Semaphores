@@ -116,12 +116,14 @@ if(NUM_LOOPS>=10)    {
 
 ## OUTPUT
 $ ./sem.o 
+```
 <img width="705" height="792" alt="Screenshot 2026-03-09 190219" src="https://github.com/user-attachments/assets/92db3a32-6188-44e4-aabc-4faa14bd932d" />
-
+```
 
 $ ipcs
+```
 <img width="925" height="306" alt="Screenshot 2026-03-09 190323" src="https://github.com/user-attachments/assets/3db3949a-fc96-4da7-8540-25303a1d1018" />
-
+```
 
 
 
