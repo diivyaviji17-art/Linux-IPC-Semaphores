@@ -21,6 +21,7 @@ Execute the C Program for the desired output.
 # PROGRAM:
 
 ## Write a C program that implements a producer-consumer system with two processes using Semaphores.
+```
 /*
  * sem-producer-consumer.c  - demonstrates a basic producer-consumer
  *                            implementation.
@@ -110,7 +111,7 @@ if(NUM_LOOPS>=10)    {
     
     return 0;
 }
-
+```
 
 
 ## OUTPUT
